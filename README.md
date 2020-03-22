@@ -1,7 +1,17 @@
 # VISERAS 
 Viseras para impresión 3D
 
-# MODELOS 3D PARA IMPRIMIR
-Con el objetivo de centralizar la información y reducir el esfuerzo necesario navegando entre miles de archivos, 
-se presenta este repositorio que contendrá siempre el modelo más avanzado
+# MODELO A IMPRIMIR
+El modelo actual a imprimir es el **"Visera plana con ventilacion.stl"**
+
+# PARÁMETROS DE IMPRESIÓN
+
+* **Parámetros para "Visera plana con ventilación.stl"**
+    * Material: PLA o cualquier material resistente a la inmersión en lejía
+    * Relleno: 50%
+    * Patrón de relleno: Rejilla
+    * Número de perímetros: 2
+    * Capas superior e inferior: 6
+    * Altura de capa: 0.2
+    * Soporte: Ninguno
 
